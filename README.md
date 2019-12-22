@@ -20,4 +20,24 @@ An untrained instance of ChatterBot starts off with no knowledge of how to commu
      pip install virtualenv
      pip install requests
      pip install uncleengineer
+# Basic Usage
+
+     from flask import Flask, request
+     import requests
+    
+     # Create a new server webhook for the chatbot
+     @app.route('/webhook', methods=['POST','GET'])
+     def webhook():
+          if request.method == 'POST':
+          payload = request.json
+          
+     # Create a new trainer for the chatbot
+     if 'ราคาITD' in message :
+            ITD = thaistock('ITD')
+            Reply_messasge = 'ราคาหุ้น อิตาเลียนไทย ขณะนี้ : {}'.format(ITD)
+            ReplyMessage(Reply_token,Reply_messasge,Channel_access_token)
      
+     # Get a response to an input statement
+     def ReplyMessage(Reply_token, TextMessage, Line_Acees_Token):
+      LINE_API = 'https://api.line.me/v2/bot/message/reply'
+
