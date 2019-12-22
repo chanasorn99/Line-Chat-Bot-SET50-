@@ -3,6 +3,10 @@
 ![](https://img.shields.io/badge/python-3.6-blue.svg)
 
 ### An example of typical input would be something like this
+user:สวัสดี
+bot:สวัสดีครับผมคือบอทให้ความรู้เรื่องหุ้นครับ ^^
+user:ราคาPTT 
+bot:ราคาหุ้น บริษัท ปตท. จำกัด (มหาชน) ขณะนี้ : ['PTT ', '44.50', '+0.25', '+0.56%', '21/12/2019 00:30:09']
 
 # Line Chat Bot(SET)50
 Chat Bot application helps analyze stocks (SET50). Developed for those who are interested and want to start looking for investment information. Analyze SET50 stocks, where users can query the meaning of stocks Stories about stocks and current stock prices, which stocks are interesting All of this information the user can access through the application line. Currently, Line application is very popular among Thai society. Therefore making the creators think that if the application of LINE is the part that pulls the user will be much more convenient because it is easy to use and easy to access More stable system
