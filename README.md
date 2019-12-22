@@ -8,8 +8,8 @@
 > user: ราคาPTT 
 > bot: ราคาหุ้น บริษัท ปตท. จำกัด (มหาชน) ขณะนี้ : ['PTT ', '44.50', '+0.25', '+0.56%', '21/12/2019 00:30:09']
 
-user: Good morning! How are you doing?
-bot: I am doing very well, thank you for asking.
+[user: Good morning! How are you doing?
+[bot: I am doing very well, thank you for asking.
 user: You're welcome.
 bot: Do you like hats?
 
