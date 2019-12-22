@@ -3,9 +3,12 @@
 ![](https://img.shields.io/badge/python-3.6-blue.svg)
 
 ### An example of typical input would be something like this
-> user:  สวัสดี
+> user:  สวัสดี 
+
 > bot: สวัสดีครับผมคือบอทให้ความรู้เรื่องหุ้นครับ ^^
+
 > user: ราคาPTT 
+
 > bot: ราคาหุ้น บริษัท ปตท. จำกัด (มหาชน) ขณะนี้ : ['PTT ', '44.50', '+0.25', '+0.56%', '21/12/2019 00:30:09']
 
 # Line Chat Bot(SET)50
