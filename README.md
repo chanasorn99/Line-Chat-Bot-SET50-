@@ -41,7 +41,7 @@ An untrained instance of ChatterBot starts off with no knowledge of how to commu
      def ReplyMessage(Reply_token, TextMessage, Line_Acees_Token):
       LINE_API = 'https://api.line.me/v2/bot/message/reply'
 
-## This project is part of BC410 subject 
-## Bachelor Degrees
-## Term 1 year of education 2019
-## University of the Thai Chamber of Commerce
+### This project is part of BC410 subject 
+### Bachelor Degrees
+### Term 1 year of education 2019
+### University of the Thai Chamber of Commerce
